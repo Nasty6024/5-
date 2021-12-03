@@ -44,7 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Circle.cs" />
-    <Compile Include="E:\5 практика.cs" />
+    <Compile Include="Figure.cs" />
     <Compile Include="Line.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
